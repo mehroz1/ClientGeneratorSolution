@@ -29,8 +29,16 @@ namespace DemoService
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
+            // 
+            // Service1
+            // 
+            this.AutoLog = false;
+            this.CanHandlePowerEvent = true;
+            this.CanHandleSessionChangeEvent = true;
+            this.CanShutdown = true;
+            this.CanStop = false;
             this.ServiceName = "Service1";
+
         }
 
         #endregion
