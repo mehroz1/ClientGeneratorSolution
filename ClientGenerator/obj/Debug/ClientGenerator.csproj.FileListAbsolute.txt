@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Debug\ClientGenerator.exe.config
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Debug\ClientGenerator.exe
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Debug\ClientGenerator.pdb
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\ClientGenerator\obj\Debug\ClientGenerator.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\ClientGenerator\obj\Debug\ClientGenerator.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\ClientGenerator\obj\Debug\ClientGenerator.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\ClientGenerator\obj\Debug\ClientGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\ClientGenerator\obj\Debug\ClientGenerator.csproj.CopyComplete
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\ClientGenerator\obj\Debug\ClientGenerator.exe
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\ClientGenerator\obj\Debug\ClientGenerator.pdb

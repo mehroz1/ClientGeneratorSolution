@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Release\built\Service-Built.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Release\built\Service-Built.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Release\built\Service-Built.exe
+Installing service DemoService-ServiceName...
+Service DemoService-ServiceName has been successfully installed.
+Creating EventLog source DemoService-ServiceName in log Application...
+Committing assembly 'C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Release\built\Service-Built.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Release\built\Service-Built.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Release\built\Service-Built.exe
