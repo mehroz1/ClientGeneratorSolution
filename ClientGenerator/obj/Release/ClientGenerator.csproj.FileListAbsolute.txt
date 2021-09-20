@@ -8,4 +8,3 @@ C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\Cli
 C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\ClientGenerator\obj\Release\ClientGenerator.csproj.CopyComplete
 C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\ClientGenerator\obj\Release\ClientGenerator.exe
 C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\ClientGenerator\obj\Release\ClientGenerator.pdb
-C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\ClientGenerator\obj\Release\ClientGenerator.csproj.AssemblyReference.cache

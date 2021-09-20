@@ -43,6 +43,7 @@ namespace DemoService
             this.serviceInstaller1.Description = "DemoService-Description";
             this.serviceInstaller1.DisplayName = "DemoService-DisplayName";
             this.serviceInstaller1.ServiceName = "DemoService-ServiceName";
+            this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             // 
             // ProjectInstaller
             // 

@@ -2,8 +2,8 @@ C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin
 C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Release\DemoService.exe
 C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Release\DemoService.pdb
 C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Release\DemoService.ProjectInstaller.resources
+C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Release\DemoService.Service1.resources
 C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Release\DemoService.csproj.GenerateResource.cache
 C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Release\DemoService.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Release\DemoService.exe
 C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Release\DemoService.pdb
-C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Release\DemoService.csproj.AssemblyReference.cache
