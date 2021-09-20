@@ -1,9 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Debug\DemoService.exe.config
-C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Debug\DemoService.exe
-C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\bin\Debug\DemoService.pdb
-C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Debug\DemoService.ProjectInstaller.resources
-C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Debug\DemoService.Service1.resources
-C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Debug\DemoService.csproj.GenerateResource.cache
-C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Debug\DemoService.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Debug\DemoService.exe
-C:\Users\Admin\Documents\Visual Studio 2019\Projects\ClientGeneratorSolution\DemoService\obj\Debug\DemoService.pdb
