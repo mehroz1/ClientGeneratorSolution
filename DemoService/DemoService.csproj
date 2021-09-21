@@ -50,10 +50,10 @@
     <WarningLevel>0</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Release'">
-	<PostBuildEvent>
+    <PostBuildEvent>
 		del *.pdb
 	</PostBuildEvent>
-   </PropertyGroup>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Configuration.Install" />
