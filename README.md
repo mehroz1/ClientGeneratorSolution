@@ -1,2 +1,2 @@
 # ClientGeneratorSolution
- Generates Dynamically Generates A Windows Service Assembly (Injected with runtime param provided on runtime)
+ Dynamically Generates A Windows Service Assembly (Injected with parameters provided on runtime)
